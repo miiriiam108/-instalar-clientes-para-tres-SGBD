@@ -6,7 +6,13 @@
 
 He instalado un *JDK* compatible con la versión de SQL
 
+![Captura 1](img/Captura%20de%20pantalla%202026-10-15%20192124.png)
 
+Comprobamos la versión 
+
+![Captura 2](img/Captura%20de%20pantalla%202026-10-07%20192220.png)
+
+He descargado SQL Developer para Linux
 
 ### Cliente gráfico: VS Code y extensión SQL Developer
 
