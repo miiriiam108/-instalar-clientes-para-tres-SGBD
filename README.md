@@ -4,6 +4,10 @@
 
 ###  Cliente gráfico: SQL Developer
 
+He instalado un *JDK* compatible con la versión de SQL
+
+
+
 ### Cliente gráfico: VS Code y extensión SQL Developer
 
 
