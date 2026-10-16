@@ -14,6 +14,10 @@ Comprobamos la versión
 
 He descargado SQL Developer para Linux
 
+![Captura 3](img/Captura%20de%20pantalla%202026-10-16%20110543.png)
+
+He creado un lanzador de menú para  SQL Developer 
+
 ### Cliente gráfico: VS Code y extensión SQL Developer
 
 
