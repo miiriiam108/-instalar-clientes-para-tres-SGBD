@@ -18,6 +18,11 @@ He descargado SQL Developer para Linux
 
 He creado un lanzador de menú para  SQL Developer 
 
+![Captura 4](img/Captura%20de%20pantalla%202026-10-16%20115224.png)
+
+Creación de la conexión oracle
+
+
 ### Cliente gráfico: VS Code y extensión SQL Developer
 
 
