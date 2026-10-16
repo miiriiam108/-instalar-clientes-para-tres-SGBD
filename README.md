@@ -22,9 +22,12 @@ He creado un lanzador de menú para  SQL Developer
 
 Creación de la conexión oracle
 
+![Captura 5](img/Captura%20de%20pantalla%202026-10-16%20115914.png)
+
 
 ### Cliente gráfico: VS Code y extensión SQL Developer
 
+Descargo e instalo visual studio code
 
 ### Cliente de terminal: SQL*Plus
 
