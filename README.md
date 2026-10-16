@@ -10,7 +10,7 @@ He instalado un *JDK* compatible con la versión de SQL
 
 Comprobamos la versión 
 
-![Captura 2](img/Captura%20de%20pantalla%202026-10-07%20192220.png)
+![Captura 2](img/Captura%20de%20pantalla%202026-10-15%20192220.png)
 
 He descargado SQL Developer para Linux
 
@@ -50,4 +50,15 @@ He descargado SQL Developer para Linux
 ### Adminer
 
 
-### 
+## ERRORES
+- El archivo que he descargado no es .zip, es .rpm por lo que el comando
+
+  `sudo unzip NOMBRE_DEL_ARCHIVO_SQLDEVELOPER.zip -d /opt/
+/opt/sqldeveloper/sqldeveloper.sh`
+
+no puedo ejecutarlo porque solo funciona para los.zip. Para solucionarlo he utilizado los siguientes comandos
+
+  - `cd ~/Descargas`
+  - `sudo alien -d sqldeveloper-26.2.0-186.2220.noarch.rpm`
+  - `sudo dpkg -i sqldeveloper_26.2.0-186.2220_all.deb`
+  - `sqldeveloper`
