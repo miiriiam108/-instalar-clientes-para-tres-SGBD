@@ -43,15 +43,18 @@ Creo las carpetas y las descomprimo
 He descargado  Oracle Instant Client para Linux x86-64: Basic y 
 SQL*Plus
 
-![Captura 7](img/Captura%20de%20pantalla%202026-10-19%20135404.png)
+![Captura 9](img/Captura%20de%20pantalla%202026-10-19%20135404.png)
 
 
 Tras instalar `libaio1t64` y crear el enlace simbólico, SQL*Plus se ejecuta correctamente:
 
-![Captura 8](img/Captura%20de%20pantalla%202026-10-19%20204107.png)
+![Captura 10](img/Captura%20de%20pantalla%202026-10-19%20204107.png)
 
 
 ### Cliente de terminal: SQLcl
+
+
+
 
 ## Clientes para PostgreSQL
 
