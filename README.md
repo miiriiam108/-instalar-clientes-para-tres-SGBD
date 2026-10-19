@@ -28,12 +28,14 @@ Creación de la conexión oracle
 ### Cliente gráfico: VS Code y extensión SQL Developer
 
 Descargo e instalo visual studio code
-![Captura 5](img/Captura%20de%20pantalla%202026-10-19%20134455.png)
+![Captura 6](img/Captura%20de%20pantalla%202026-10-19%20134455.png)
 
 ### Cliente de terminal: SQL*Plus
 
 He descargado  Oracle Instant Client para Linux x86-64: Basic y 
 SQL*Plus
+
+![Captura 7](img/Captura%20de%20pantalla%202026-10-19%20135404.png)
 
 ### Cliente de terminal: SQLcl
 
