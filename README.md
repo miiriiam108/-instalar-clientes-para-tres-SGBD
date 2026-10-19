@@ -53,6 +53,11 @@ Tras instalar `libaio1t64` y crear el enlace simbólico, SQL*Plus se ejecuta cor
 
 ### Cliente de terminal: SQLcl
 
+![Captura 11](img/Captura%20de%20pantalla%202026-10-19%20205650.png)
+
+![Captura 12](img/Captura%20de%20pantalla%202026-10-19%20205928.png)
+
+![Captura 13](img/Captura%20de%20pantalla%202026-10-19%20210955.png)
 
 
 
