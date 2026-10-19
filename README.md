@@ -32,7 +32,13 @@ Descargo e instalo visual studio code
 
 Creo las carpetas y las descomprimo
 
+![Captura 7](img/Captura%20de%20pantalla%202026-10-19%20183840.png)
+
+![Captura 8](img/Captura%20de%20pantalla%202026-10-19%20184026.png)
+
+
 ### Cliente de terminal: SQL*Plus
+
 
 He descargado  Oracle Instant Client para Linux x86-64: Basic y 
 SQL*Plus
