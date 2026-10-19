@@ -30,6 +30,8 @@ Creación de la conexión oracle
 Descargo e instalo visual studio code
 ![Captura 6](img/Captura%20de%20pantalla%202026-10-19%20134455.png)
 
+Creo las carpetas y las descomprimo
+
 ### Cliente de terminal: SQL*Plus
 
 He descargado  Oracle Instant Client para Linux x86-64: Basic y 
