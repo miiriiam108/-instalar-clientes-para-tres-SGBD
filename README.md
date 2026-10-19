@@ -53,10 +53,14 @@ Tras instalar `libaio1t64` y crear el enlace simbólico, SQL*Plus se ejecuta cor
 
 ### Cliente de terminal: SQLcl
 
+Instalamos Java y vemos la versión
 ![Captura 11](img/Captura%20de%20pantalla%202026-10-19%20205650.png)
+
+He descargado el .zip y lo he descomprido
 
 ![Captura 12](img/Captura%20de%20pantalla%202026-10-19%20205928.png)
 
+Compruebo la conexión orauser y FREEPDB1 
 ![Captura 13](img/Captura%20de%20pantalla%202026-10-19%20210955.png)
 
 
