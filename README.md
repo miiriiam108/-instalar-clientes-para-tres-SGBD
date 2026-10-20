@@ -115,15 +115,24 @@ probamos la conexión
 
 ![Captura 24](img/Captura%20de%20pantalla%202026-10-20%20181119.png)
 
-![Captura 24](img/Captura%20de%20pantalla%202026-10-20%20181242.png)
+![Captura 25](img/Captura%20de%20pantalla%202026-10-20%20181242.png)
 
 ##  Clientes para varios SGBD
 
 ###  DBeaver Community
 
+He descargado el paquete DEB
+![Captura 26](img/Captura%20de%20pantalla%202026-10-20%20184359.png)
 
 ### Adminer
 
+![Captura 27](img/Captura%20de%20pantalla%202026-10-20%20184541.png)
+
+![Captura 28](img/Captura%20de%20pantalla%202026-10-20%20184556.png)
+
+![Captura 29](img/Captura%20de%20pantalla%202026-10-20%20185453.png)
+
+![Captura 30](img/Captura%20de%20pantalla%202026-10-20%20185557.png)
 
 ## ERRORES
 - El archivo que he descargado no es .zip, es .rpm por lo que el comando
