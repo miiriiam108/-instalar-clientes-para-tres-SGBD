@@ -99,7 +99,9 @@ Compruebo la conexión
 
 
 ###  Cliente de terminal: mariadb (o mysql)
+Instalamos mariadb y compromabos conexión
 
+![Captura 21](img/Captura%20de%20pantalla%202026-10-20%20100616.png)
 
 
 ###  Cliente web: phpMyAdmin
