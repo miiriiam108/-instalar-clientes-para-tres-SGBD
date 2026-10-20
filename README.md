@@ -75,6 +75,17 @@ Instalamos y vemos la versión
 
 ![Captura 15](img/Captura%20de%20pantalla%202026-10-20%20085827.png)
 
+
+He instalado pgAdmin4
+
+![Captura 16](img/Captura%20de%20pantalla%202026-10-20%20095125.png)
+
+![Captura 17](img/Captura%20de%20pantalla%202026-10-20%20095232.png)
+
+Compruebo la conexión
+
+![Captura 18](img/Captura%20de%20pantalla%202026-10-20%20095232.png)
+
 ### Cliente de terminal: psql
 
 
