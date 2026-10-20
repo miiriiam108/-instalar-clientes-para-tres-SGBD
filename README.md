@@ -107,6 +107,10 @@ Instalamos mariadb y compromabos conexión
 ###  Cliente web: phpMyAdmin
 He instalado el servidor web, PHP y phpMyAdmin
 
+![Captura 22](img/Captura%20de%20pantalla%202026-10-20%2018008.png)
+
+![Captura 23](img/Captura%20de%20pantalla%202026-10-20%2018008.png)
+
 ##  Clientes para varios SGBD
 
 
