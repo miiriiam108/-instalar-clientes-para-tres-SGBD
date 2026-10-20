@@ -113,10 +113,11 @@ He instalado el servidor web, PHP y phpMyAdmin
 
 probamos la conexión
 
-![Captura 24](img/Captura%20de%20pantalla%202026-10-20%20180554.png)
+![Captura 24](img/Captura%20de%20pantalla%202026-10-20%20181119.png)
+
+![Captura 24](img/Captura%20de%20pantalla%202026-10-20%20181242.png)
 
 ##  Clientes para varios SGBD
-
 
 ###  DBeaver Community
 
