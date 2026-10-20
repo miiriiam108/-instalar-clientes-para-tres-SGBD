@@ -101,11 +101,11 @@ Compruebo la conexión
 ###  Cliente de terminal: mariadb (o mysql)
 Instalamos mariadb y compromabos conexión
 
-![Captura 21](img/Captura%20de%20pantalla%202026-10-20%20100616.png)
+![Captura 21](img/Captura%20de%20pantalla%202026-10-20%20175114.png)
 
 
 ###  Cliente web: phpMyAdmin
-
+He instalado el servidor web, PHP y phpMyAdmin
 
 ##  Clientes para varios SGBD
 
