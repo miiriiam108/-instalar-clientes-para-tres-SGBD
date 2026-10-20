@@ -84,7 +84,11 @@ He instalado pgAdmin4
 
 Compruebo la conexión
 
-![Captura 18](img/Captura%20de%20pantalla%202026-10-20%20095232.png)
+![Captura 18](img/Captura%20de%20pantalla%202026-10-20%20095938.png)
+
+![Captura 19](img/Captura%20de%20pantalla%202026-10-20%20095803.png)
+
+![Captura 20](img/Captura%20de%20pantalla%202026-10-20%20095803.png)
 
 ### Cliente de terminal: psql
 
