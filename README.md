@@ -71,7 +71,7 @@ Compruebo la conexión orauser y FREEPDB1
 
 Instalamos y vemos la versión 
 
-![Captura 14](img/Captura%20de%20pantalla%202026-10-20%20210955.png)
+![Captura 14](img/Captura%20de%20pantalla%202026-10-20%20083533.png)
 
 
 ### Cliente de terminal: psql
