@@ -69,12 +69,16 @@ Compruebo la conexión orauser y FREEPDB1
 
 ## Clientes para PostgreSQL
 
+
+### Cliente de terminal: psql
+
 Instalamos y vemos la versión 
 
 ![Captura 14](img/Captura%20de%20pantalla%202026-10-20%20083533.png)
 
 ![Captura 15](img/Captura%20de%20pantalla%202026-10-20%20085827.png)
 
+###  Cliente gráfico: pgAdmin 4
 
 He instalado pgAdmin4
 
@@ -88,12 +92,7 @@ Compruebo la conexión
 
 ![Captura 19](img/Captura%20de%20pantalla%202026-10-20%20095803.png)
 
-![Captura 20](img/Captura%20de%20pantalla%202026-10-20%20095803.png)
-
-### Cliente de terminal: psql
-
-
-###  Cliente gráfico: pgAdmin 4
+![Captura 20](img/Captura%20de%20pantalla%202026-10-20%20100616.png)
 
 
 ## Clientes para MariaDB
