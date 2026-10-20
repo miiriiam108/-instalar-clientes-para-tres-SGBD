@@ -76,7 +76,7 @@ Instalamos y vemos la versión
 
 ![Captura 14](img/Captura%20de%20pantalla%202026-10-20%20083533.png)
 
-![Captura 15](img/Captura%20de%20pantalla%202026-10-20%20085827.png)
+![Captura 15](img/Captura%20de%20pantalla%202026-10-20%20100941.png)
 
 ###  Cliente gráfico: pgAdmin 4
 
