@@ -69,6 +69,10 @@ Compruebo la conexión orauser y FREEPDB1
 
 ## Clientes para PostgreSQL
 
+Instalamos y vemos la versión 
+
+![Captura 14](img/Captura%20de%20pantalla%202026-10-20%20210955.png)
+
 
 ### Cliente de terminal: psql
 
